@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Kaviya Invoice Dec 1- 28th December-page3_Figure_3-6.png</filename>
+	<path>D:\PycharmCode\Data_Creation\Augmented_Images\02\New folder\Kaviya Invoice Dec 1- 28th December-page3_Figure_3-6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>102</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>16</ymin>
+			<xmax>89</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>

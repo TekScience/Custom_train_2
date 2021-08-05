@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>himanshu-page1.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\himanshu-page1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>124</ymin>
+			<xmax>361</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>Sai Preetam Invoice Dec 29 2019- 25 jan 2020-page7.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\Sai Preetam Invoice Dec 29 2019- 25 jan 2020-page7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>475</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>86</ymin>
+			<xmax>421</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

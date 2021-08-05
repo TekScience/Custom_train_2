@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>Narita-page3.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\Narita-page3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>170</ymin>
+			<xmax>347</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

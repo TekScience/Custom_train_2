@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>Mamta-page2.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\Mamta-page2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>133</ymin>
+			<xmax>365</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

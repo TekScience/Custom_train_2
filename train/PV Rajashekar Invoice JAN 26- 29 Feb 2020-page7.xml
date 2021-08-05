@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>PV Rajashekar Invoice JAN 26- 29 Feb 2020-page7.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\PV Rajashekar Invoice JAN 26- 29 Feb 2020-page7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>464</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>83</ymin>
+			<xmax>422</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>82</ymin>
+			<xmax>422</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

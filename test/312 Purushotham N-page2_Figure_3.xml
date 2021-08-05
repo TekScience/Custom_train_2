@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01</folder>
+	<filename>312 Purushotham N-page2_Figure_3.png</filename>
+	<path>D:\PycharmCode\Data_Creation\Augmented_Images\01\312 Purushotham N-page2_Figure_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>131</width>
+		<height>107</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>28</ymin>
+			<xmax>131</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

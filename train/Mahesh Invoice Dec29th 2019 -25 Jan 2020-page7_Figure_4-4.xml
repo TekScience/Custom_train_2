@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Mahesh Invoice Dec29th 2019 -25 Jan 2020-page7_Figure_4-4.png</filename>
+	<path>D:\PycharmCode\Data_Creation\Augmented_Images\02\New folder\Mahesh Invoice Dec29th 2019 -25 Jan 2020-page7_Figure_4-4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>92</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>35</ymin>
+			<xmax>122</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

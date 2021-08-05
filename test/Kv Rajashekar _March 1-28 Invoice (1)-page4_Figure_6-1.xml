@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Kv Rajashekar _March 1-28 Invoice (1)-page4_Figure_6-1.png</filename>
+	<path>D:\PycharmCode\Data_Creation\Augmented_Images\02\New folder\Kv Rajashekar _March 1-28 Invoice (1)-page4_Figure_6-1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>99</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>39</ymin>
+			<xmax>145</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

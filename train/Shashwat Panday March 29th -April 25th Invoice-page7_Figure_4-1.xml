@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Shashwat Panday March 29th -April 25th Invoice-page7_Figure_4-1.png</filename>
+	<path>D:\PycharmCode\Data_Creation\Augmented_Images\02\New folder\Shashwat Panday March 29th -April 25th Invoice-page7_Figure_4-1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>108</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bryteside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>12</ymin>
+			<xmax>97</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

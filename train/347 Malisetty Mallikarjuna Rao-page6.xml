@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>347 Malisetty Mallikarjuna Rao-page6.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\347 Malisetty Mallikarjuna Rao-page6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>743</width>
+		<height>645</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>218</ymin>
+			<xmax>465</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

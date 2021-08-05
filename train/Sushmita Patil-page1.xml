@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>Sushmita Patil-page1.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\Sushmita Patil-page1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>617</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>127</ymin>
+			<xmax>390</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

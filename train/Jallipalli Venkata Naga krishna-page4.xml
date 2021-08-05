@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>Jallipalli Venkata Naga krishna-page4.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\Jallipalli Venkata Naga krishna-page4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>734</width>
+		<height>619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>187</ymin>
+			<xmax>478</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

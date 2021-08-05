@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Output</folder>
+	<filename>Prashanth Kumar [1]-page0.jpg</filename>
+	<path>D:\PycharmCode\Data_Creation\Output\Prashanth Kumar [1]-page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>65</ymin>
+			<xmax>333</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
